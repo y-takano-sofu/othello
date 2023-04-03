@@ -1,0 +1,10 @@
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\bin\Debug\othello0.0.2.exe.config
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\bin\Debug\othello0.0.2.exe
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\bin\Debug\othello0.0.2.pdb
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\obj\Debug\othello0.0.2.csproj.AssemblyReference.cache
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\obj\Debug\othello0._0._2.Form1.resources
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\obj\Debug\othello0._0._2.Properties.Resources.resources
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\obj\Debug\othello0.0.2.csproj.GenerateResource.cache
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\obj\Debug\othello0.0.2.csproj.CoreCompileInputs.cache
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\obj\Debug\othello0.0.2.exe
+C:\Users\koror\Desktop\Visual Studio\othello0.0.2\obj\Debug\othello0.0.2.pdb
